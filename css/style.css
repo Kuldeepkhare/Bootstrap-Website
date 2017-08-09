@@ -1,0 +1,84 @@
+/*jumbotron*/
+.jumbotron{
+	background: url("../img/32.jpg");
+	background-size: 100% 500px;
+	background-repeat: no-repeat;
+
+	height: 500px;
+}
+
+
+/*Collapse group*/
+#accordion
+{
+	margin-left: 40px;
+	margin-right: 97px;
+	margin-top: 5px;
+}
+/*Background footer*/
+.bd footer
+{
+	background-color: #d3d3d3;
+}
+/**/
+.content-third
+{
+	margin-left: 50px;
+	background-color: #d3d3d3;
+	margin-right: 100px;
+}
+/*Image of conetent*/
+.content-third img
+{
+	width: 800px;
+	height:200px;
+}
+/*iframe tag of youtube*/
+.first1 iframe
+{
+	width:100%;
+	
+}
+/*Background*/
+.first2
+{
+	background-color: #d3d3d3;
+}
+/*image tag*/
+.first3 img
+{
+	height: 100px;
+	width: 150px;
+}
+/*image tag*/
+.first4 img
+{
+	height: 100px;
+	width: 150px;
+	float: left;
+}
+/*margin setting*/
+.first51
+{
+	margin-left: 0px;
+
+}
+/*navbar inline*/
+.nav-area li
+{
+	display:inline-block;
+}
+/*toggling setting*/
+.toggling li
+{
+	font-family: sans-serif;
+	font-size: 14px;
+}
+/*navbar option*/
+.top-nav-option li
+{
+	display:inline-block;
+	margin-right: 25px;
+	margin-top:15px;
+	font-family: sans-serif;
+}
